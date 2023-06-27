@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QqiRuM9aBIDOklyobpVDt4ugn/4zJB/LJKprJNdPJzJAM49veSMaW0jvTfZ9LGvf4Igbveb9/hoM4WHZ1ehkQ==",
+  "success": true,
+  "projectFilePath": "D:\\MISA\\web202304\\dvtai\\aspnetcore\\MISA.WebFresher042023.Demo\\MISA.WebFresher042023.Demo.Core\\MISA.WebFresher042023.Demo.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taida\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\taida\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\taida\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\taida\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\taida\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\taida\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\taida\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

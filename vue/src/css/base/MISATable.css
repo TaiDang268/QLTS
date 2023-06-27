@@ -1,0 +1,96 @@
+/* table-content */
+.table-container {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 4px 20px 16px 20px;
+}
+.table {
+  border: 1px solid #afafaf;
+  border-radius: 4px;
+  height: 580px;
+  overflow: auto;
+  overflow-y: overlay;
+  background-color: #ffffff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+thead {
+  position: sticky;
+  top: 0px;
+  background-color: #f5f5f5;
+}
+
+tfoot {
+  position: sticky;
+  bottom: 0px;
+  background-color: #ffffff;
+  z-index: 1;
+  border-top: 1px solid #afafaf;
+}
+.table::-webkit-scrollbar {
+  width: 4px;
+}
+.table::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 4px;
+}
+.table-text-align--center {
+  text-align: center;
+}
+.table-text-align--left {
+  text-align: left;
+}
+.table-text-align--right {
+  text-align: right;
+}
+tbody {
+  height: 480px;
+}
+tr {
+  height: 48px;
+  /* caret-color: transparent; */
+}
+
+tbody tr:hover {
+  background-color: rgba(26, 164, 200, 0.2);
+}
+tbody tr {
+  border-top: 1px solid #afafaf;
+  border-bottom: 1px solid #afafaf;
+  cursor: pointer;
+}
+.highlighted {
+  background-color: rgba(26, 164, 200, 0.2);
+}
+th:first-child,
+td:first-child {
+  padding-left: 6px;
+}
+th,
+tfoot td {
+  font-family: "RobotoBold";
+}
+input[type="checkbox"] {
+  cursor: pointer;
+}
+.pagination-container {
+  display: flex;
+  align-items: center;
+  margin-left: 12px;
+}
+.select-per-page {
+  margin-left: 36px;
+  width: 60px !important;
+}
+.el-select .el-input__wrapper {
+  height: 28px;
+  margin-top: 4px;
+}
+
+body .el-select .el-input.is-focus .el-input__wrapper {
+  box-shadow: none !important;
+  border-color: var(--primary-color) !important;
+}

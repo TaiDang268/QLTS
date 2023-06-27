@@ -1,0 +1,64 @@
+.container {
+  padding: 0 20px;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-title p {
+  height: 100%;
+  text-align: center;
+}
+.header-right {
+  height: 100%;
+  width: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.header-right-title {
+  margin-right: 26px;
+}
+.header-right-date {
+  width: 112px;
+  height: 30px;
+  background-color: rgba(26, 164, 200, 0.2);
+  border-radius: 3px;
+}
+.header-right-group-icon {
+  display: flex;
+  align-items: center;
+  margin-left: 26px;
+}
+.header-right-group-icon-item {
+  margin-right: 20px;
+}
+.bell-icon {
+  background: var(--url-image) no-repeat -332px -109px;
+  width: 16px;
+  height: 20px;
+}
+.four-scare-icon {
+  background: var(--url-image) no-repeat -199px -23px;
+  width: 18px;
+  height: 18px;
+}
+.question-mark-con {
+  background: var(--url-image) no-repeat -67px -67px;
+  width: 18px;
+  height: 18px;
+}
+.user-icon {
+  background: var(--url-image) no-repeat -23px -23px;
+  width: 18px;
+  height: 18px;
+}
+.arrow-item {
+  margin-left: -10px;
+  margin-right: 0px;
+}

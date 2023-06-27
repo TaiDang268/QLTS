@@ -1,0 +1,98 @@
+@import url(../constant/url-image.css);
+/* sidebar ở tráng thái mặc định thu nhỏ */
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.divider {
+  border-top: 1px solid white;
+  width: 100%;
+  position: absolute;
+  bottom: 56px;
+}
+.logo-home {
+  width: 100%;
+  height: 50px;
+  padding-top: 8px;
+  padding-left: 12px;
+}
+
+.item-sidebar {
+  width: 44px;
+  height: 36px;
+  margin-top: 12px;
+  margin-left: 12px;
+  background-color: #1c3048;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none !important;
+}
+.item-sidebar:hover {
+  border: none;
+}
+/*  sidebar khi phóng to */
+.sidebar.expanded {
+  width: 220px;
+}
+.logo-home.expanded {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -25px;
+}
+.logo-home span {
+  margin-left: 8px;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.item-sidebar-expanded {
+  height: 36px;
+  margin: 12px 12px 0 12px;
+  display: flex;
+  align-items: center;
+  border: none !important;
+  background-color: #1c3048;
+  position: relative;
+}
+.item-sidebar-expanded span {
+  margin-left: 8px;
+  font-weight: 600;
+  color: white;
+}
+/* icon v sổ xuống của mỗi item */
+.iconV {
+  background: var(--url-image) no-repeat -158px -293px;
+  width: 12px;
+  height: 7px;
+  position: absolute;
+  right: 6px;
+  display: flex;
+  align-items: center;
+}
+/* button toggle sidebar phóng to thu nhỏ */
+.toggle-sidebar-icon-expanded,
+.toggle-sidebar-icon-not-expanded {
+  width: 22px;
+  height: 22px;
+  background-color: #1c3048;
+  border: none !important;
+  position: absolute;
+  bottom: 8px;
+  right: 12px;
+}
+.toggle-sidebar-icon-expanded {
+  background: var(--url-image) no-repeat -329px -417px;
+}
+.toggle-sidebar-icon-not-expanded {
+  background: var(--url-image) no-repeat -285px -417px;
+}
+
+/* active item */
+.active {
+  background-color: var(--primary-color);
+}

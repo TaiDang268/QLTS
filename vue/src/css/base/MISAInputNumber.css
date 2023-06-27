@@ -1,0 +1,40 @@
+@import url(../constant/url-image.css);
+.input-number {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.input-number input {
+  flex-grow: 1;
+  width: 100%;
+  outline: none;
+  border: none;
+  height: 36px;
+  border-radius: 4px;
+  border: 1px solid var(--border-color);
+  padding: 0 8px;
+  text-align: right;
+  padding-right: 26px;
+}
+.buttons {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  right: 6px;
+}
+
+.buttons button {
+  margin: 2px;
+  border: none;
+}
+.btn-inc-icon {
+  background: var(--url-image) no-repeat -28px -338px;
+  width: 8px;
+  height: 5px;
+}
+.btn-dec-icon {
+  background: var(--url-image) no-repeat -72px -338px;
+  width: 8px;
+  height: 5px;
+}

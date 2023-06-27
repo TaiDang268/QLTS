@@ -1,0 +1,15 @@
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\bin\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.deps.json
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\bin\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.dll
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\bin\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.pdb
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\bin\Debug\net6.0\MISA.WebFresher042023.Demo.Core.dll
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\bin\Debug\net6.0\MISA.WebFresher042023.Demo.Core.pdb
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.csproj.AssemblyReference.cache
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.AssemblyInfoInputs.cache
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.AssemblyInfo.cs
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.csproj.CoreCompileInputs.cache
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.csproj.CopyComplete
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.dll
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\obj\Debug\net6.0\refint\MISA.WebFresher042023.Demo.Infratructure.dll
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Infratructure.pdb
+D:\MISA\web202304\dvtai\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.Infratructure\obj\Debug\net6.0\ref\MISA.WebFresher042023.Demo.Infratructure.dll

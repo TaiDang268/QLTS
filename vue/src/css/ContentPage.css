@@ -1,0 +1,136 @@
+@import url(../css/constant/colors.css);
+@import url(constant/url-image.css);
+.content {
+  width: 100%;
+  height: 100%;
+  background-color: var(--background-color);
+}
+/* filter-form */
+.filter-action-control {
+  height: 36px;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper-filter {
+  display: flex;
+}
+.wrapper-search {
+  position: relative;
+}
+.search-input {
+  width: 180px;
+  border-radius: 4px;
+  height: 100%;
+  border: 1px solid var(--border-color);
+  padding: 0 8px;
+  padding-left: 34px;
+  outline: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+.search-input::placeholder {
+  font-family: "RobotoItalic";
+  margin: auto 0;
+}
+
+.search-icon {
+  background: var(--url-image) no-repeat -243px -23px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.filter-type {
+  width: 220px;
+  margin-left: 12px;
+}
+
+.filter-part {
+  width: 220px;
+  margin-left: 16px;
+}
+
+.filter-department {
+  width: 220px;
+  margin-left: 12px;
+}
+/* action-user */
+.add-btn {
+  color: var(--white-color);
+  background-color: var(--primary-color);
+  padding: 8px 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.add-btn:hover {
+  background-color: var(--hover-color);
+}
+.add-btn p {
+  text-align: center;
+}
+.export-exel-btn,
+.delete-btn {
+  margin-left: 12px;
+  width: 36px;
+  padding: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.16);
+}
+.export-exel-icon {
+  background: var(--url-image) no-repeat -287px -111px;
+  width: 18px;
+  height: 17px;
+}
+
+.delete-icon {
+  width: 18px;
+  height: 18px;
+  background: var(--url-image) no-repeat -463px -111px;
+}
+
+.action {
+  width: 300px;
+  height: 36px;
+  display: flex;
+  justify-content: flex-end;
+}
+.action-add {
+  width: 110px;
+  color: #ffffff;
+  border: none;
+  overflow: hidden;
+  background-color: #1aa4c8;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.16);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.add-icon {
+  background: var(--url-image) no-repeat -204px -424px;
+  width: 8px;
+  height: 8px;
+  margin: 0 4px;
+}
+.action-add:hover {
+  background-color: #3395ff;
+}
+.action-export-excel,
+.action-delete {
+  background-color: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.16);
+  width: 36px;
+  overflow: hidden;
+  margin-left: 10px;
+}
+.action--export-excel-icon {
+  background: var(--url-image) no-repeat -287px -111px;
+  width: 18px;
+  height: 17px;
+}
+.action-delete-icon {
+  width: 18px;
+  height: 18px;
+  background: var(--url-image) no-repeat -463px -111px;
+}
